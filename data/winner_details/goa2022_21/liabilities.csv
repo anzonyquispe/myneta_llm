@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,dependent4,
+1,i,Loans from Banks / FIs,"Axis Bank Mapusa Ac No PHR018002160811  25,26,992 25 Lacs+ Axis Bank Mapusa Ac No LPR018002256989  19,52,493 19 Lacs+ HDFC Bank Mapusa Ac No 50250863  7,49,752 7 Lacs+",Nil,Nil,Nil,"HDFC Bank Mapusa Ac No 02022000006016  3,03,191 3 Lacs+",Nil,Nil,"Rs 55,32,428 55 Lacs+"
+2,i,Loans due to Individual / Entity,"Advance From Derek Developers 47,062 47 Thou+ Loan From Lavu Mameldar  15,00,000 15 Lacs+ Loan from Mr Pradeep kanta Arolkar  11,06,000 11 Lacs+",Nil,Nil,Nil,Nil,Nil,Nil,"Rs 26,53,062 26 Lacs+"
+3,i,Any other Liability,"Trade Creditors of Proprietory 1,91,10,190 1 Crore+ Advance Recieve from Avon Shire Developments  18,75,000 18 Lacs+","Advance Recieve from Avon Shire Developments 18,75,000 18 Lacs+",Nil,Nil,Nil,Nil,Nil,"Rs 2,28,60,190 2 Crore+"
+4,i,Grand Total of Liabilities (as per affidavit),"2,88,67,489 2 Crore+","18,75,000 18 Lacs+",Nil,Nil,"3,03,191 3 Lacs+",Nil,Nil,"Rs 3,10,45,680 3 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),0,0,Nil,Nil,0,Nil,Nil,Rs 0
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 2,88,67,489 2 Crore+","Rs 18,75,000 18 Lacs+",Nil,Nil,"Rs 3,03,191 3 Lacs+",Nil,Nil,"Rs 3,10,45,680 3 Crore+"

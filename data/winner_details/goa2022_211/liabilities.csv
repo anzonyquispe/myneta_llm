@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"Union Bank of India, A/C No. 560631001735501  36,99,720 36 Lacs+ Union Bank of India, A/C No. 560631000927553  34,60,799 34 Lacs+ Union Bank of India, A/C No. 560761000910036  9,71,374 9 Lacs+ Union Bank of India, A/C No. 560761000934872  67,46,690 67 Lacs+ Union Bank of India, A/C No. 560771000226837  4,00,907 4 Lacs+","Union Bank of India, A/C No. 560821000055629  12,18,104 12 Lacs+ Union Bank of India, A/C No. 560821000055734  21,75,256 21 Lacs+ Union Bank of India, A/C N o. 560771000208680  7,33,463 7 Lacs+ Union Bank of India, A/C No. 560321000023815  2,96,09,766 2 Crore+ Union Bank of India, A/C NO. 560631001735455  18,71,049 18 Lacs+ Union Bank of India, A/C No. 560631001735463  21,01,713 21 Lacs+ Union Bank of India, A/C No. 560516001134460  65,60,000 65 Lacs+ Union Bank of India, A/C No. 560566001722950  80,73,007 80 Lacs+ Union Bank of India, A/C No. 56071600565649  29,19,335 29 Lacs+ Union Bank of India, A/C No. 560761001089672  29,34,069 29 Lacs+",Nil,Nil,Nil,Nil,"Rs 7,34,75,252 7 Crore+"
+2,i,Loans due to Individual / Entity,Nil,"Oracle Builders  15,69,349 15 Lacs+ Shwin Talwar  45,00,000 45 Lacs+ Nandgopal andhan Kurchadkar  50,00,000 50 Lacs+ Other  1,00,000 1 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,11,69,349 1 Crore+"
+3,i,Any other Liability,"Creditors  4,64,26,425 4 Crore+","Creditors  15,60,64,410 15 Crore+",Nil,"Creditors  16,00,000 16 Lacs+",Nil,Nil,"Rs 20,40,90,835 20 Crore+"
+4,i,Grand Total of Liabilities (as per affidavit),"6,17,05,915 6 Crore+","22,54,29,521 22 Crore+",Nil,"16,00,000 16 Lacs+",Nil,Nil,"Rs 28,87,35,436 28 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 6,17,05,915 6 Crore+","Rs 22,54,29,521 22 Crore+",Nil,"Rs 16,00,000 16 Lacs+",Nil,Nil,"Rs 28,87,35,436 28 Crore+"

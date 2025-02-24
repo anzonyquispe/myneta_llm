@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Cash,"1,00,000 1 Lacs+","95,000 95 Thou+",Nil,Nil,Nil,Nil,"Rs 1,95,000 1 Lacs+"
+2,ii,"Deposits in Banks, Financial Institutions and Non-Banking Financial Companies","Indian Overseas Bank  40,000 40 Thou+ YDCC 2,000 2 Thou+","YDCC Bank  3,000 3 Thou+ Axis Bank  25,000 25 Thou+",Nil,Nil,Nil,Nil,"Rs 70,000 70 Thou+"
+3,iii,"Bonds, Debentures and Shares in companies",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,iv,"(a)  NSS, Postal Savings etc",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+5,iv,(b) LIC or other insurance Policies,"LIC  1,00,000 1 Lacs+ LIC  9,00,000 9 Lacs+ LIC  5,00,000 5 Lacs+ LIC  5,00,000 5 Lacs+","insurance policies 5,00,000 5 Lacs+",Nil,Nil,Nil,Nil,"Rs 25,00,000 25 Lacs+"
+6,v,Personal loans/advance given,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,vi,"Motor Vehicles (details of make, etc.)","Tayota Innova MH29BC5000  10,00,000 10 Lacs+","Maruti Ignis MH29BV5500  8,00,000 8 Lacs+ Honda Dio MH29S6109  10,000 10 Thou+ Acitva Scooter MH29N454  10,000 10 Thou+",Nil,Nil,Nil,Nil,"Rs 18,20,000 18 Lacs+"
+8,vii,Jewellery (give details weight value),"Gold 50 Gms  3,50,000 3 Lacs+","Gold 450 gms  31,50,000 31 Lacs+ Silver 3kg  3,00,000 3 Lacs+",Nil,Nil,Nil,Nil,"Rs 38,00,000 38 Lacs+"
+9,viii,"Other assets, such as values of claims / interests",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,Gross Total Value (as per Affidavit),Gross Total Value (as per Affidavit),"34,92,000 34 Lacs+","48,93,000 48 Lacs+",Nil,Nil,Nil,Nil,"Rs 83,85,000 83 Lacs+"
+11,Totals (Calculated as Sum of Values),Totals (Calculated as Sum of Values),"Rs 34,92,000 34 Lacs+","Rs 48,93,000 48 Lacs+",Nil,Nil,Nil,Nil,"Rs 83,85,000 83 Lacs+"

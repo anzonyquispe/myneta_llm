@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"UBI Loan 15,89,267 15 Lacs+ Axis Bank Loan  55,35,654 55 Lacs+","Axis Bank Loan  55,35,654 55 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,26,60,575 1 Crore+"
+2,i,Loans due to Individual / Entity,Nil,"Unsecured Loan from Mohini Bose  7,06,440 7 Lacs+ Unsecured Loan from Sujit Bose  27,37,082 27 Lacs+",Nil,Nil,Nil,Nil,"Rs 34,43,522 34 Lacs+"
+3,i,Any other Liability,Nil,"Expenses Payable  5,000 5 Thou+",Nil,Nil,Nil,Nil,"Rs 5,000 5 Thou+"
+4,i,Grand Total of Liabilities (as per affidavit),"71,24,921 71 Lacs+","89,84,177 89 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,61,09,098 1 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 71,24,921 71 Lacs+","Rs 89,84,176 89 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,61,09,097 1 Crore+"

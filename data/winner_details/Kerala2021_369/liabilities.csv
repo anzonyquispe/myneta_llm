@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"ICICI bank ltd, LBCLT00004421886, NARIMAN point branch, 52,98,020 52 Lacs+ Canara bank, over draft, 44051400001850, Mavoor road branch  39,96,730.76 39 Lacs+ Canara bank, term loan, 44059160000191, Mavoor road branch  5,01,746.58 5 Lacs+ Canara bank, 44059580000030, Mavoor road branch,  2,59,662.01 2 Lacs+ Canara bank, 44051010005713, current account, Mavoor road  0*(Value Not Given)",Nil,Nil,"Canara bank, 44057770000014, Mavoor road branch , education loan  6,03,010.67 6 Lacs+ SBI, 39747922643, Jawahar nagar colony branch, 2,97,604 2 Lacs+","Canara bank, 44059650000082, Mavoor road branch, educational loan  88,026.68 88 Thou+",Nil,"Rs 1,10,44,800.70 1 Crore+"
+2,i,Loans due to Individual / Entity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"1,00,66,864 1 Crore+",Nil,Nil,"9,00,614 9 Lacs+","88,026 88 Thou+",Nil,"Rs 1,10,55,504 1 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),0,0,Nil,Nil,Nil,Nil,Rs 0
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 1,00,56,159.35 1 Crore+",Nil,Nil,"Rs 9,00,614.67 9 Lacs+","Rs 88,026.68 88 Thou+",Nil,"Rs 1,10,44,800.70 1 Crore+"

@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"HDFC Baddi  1,87,78,236 1 Crore+ HDFC Baddi  88,59,816 88 Lacs+ ICICI Bank, Vehicle Loan  24,67,450 24 Lacs+ ICICI Bank, Vehicle Loan  11,01,991 11 Lacs+ ICICI Bank, Vehicle Loan  20,17,483 20 Lacs+ Car Loan, PNB, Baddi  6,99,996 6 Lacs+ House Loan, PNB Baddi  95,40,596 95 Lacs+ OD Limit, PNB Baddi  2,32,40,357 2 Crore+","Union Bank, Baddi, Car Loan  8,66,610 8 Lacs+ Union Bank, Baddi, CC Limit  42,01,369 42 Lacs+ Union Bank, Baddi, Term Loan  27,42,857 27 Lacs+ ICICI Bank Baddi, Vehicle Loan  11,59,995 11 Lacs+ ICICI Bank, Baddi, Vehicle Loan  12,02,534 12 Lacs+ ICICI Bank, Baddi, Car Loan  36,77,912 36 Lacs+",Nil,Nil,Nil,Nil,"Rs 8,05,57,202 8 Crore+"
+2,i,Loans due to Individual / Entity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"6,67,05,925 6 Crore+","1,38,51,277 1 Crore+",Nil,Nil,Nil,Nil,"Rs 8,05,57,202 8 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 6,67,05,925 6 Crore+","Rs 1,38,51,277 1 Crore+",Nil,Nil,Nil,Nil,"Rs 8,05,57,202 8 Crore+"

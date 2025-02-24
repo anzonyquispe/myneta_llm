@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"Axis Bank 6245  80,04,468 80 Lacs+ Axis Bank 6261  57,72,509 57 Lacs+","Axis Bank, Klb, Loan 0457  80,30,834 80 Lacs+ BOB, Loan 1708  4,48,00,000 4 Crore+ BOB, Loan 1723  1,95,91,605 1 Crore+ BOB, Gold Loan 2814  28,91,451 28 Lacs+ BOB, MSME Loan 2538  2,34,00,196 2 Crore+ BOB, Eduation Loan 2206  32,27,000 32 Lacs+",Nil,Nil,Nil,Nil,"Rs 11,57,18,063 11 Crore+"
+2,i,Loans due to Individual / Entity,"Dr. Bhagyashree S Patil  3,75,550 3 Lacs+ Mohd Yakub Ali  74,08,877 74 Lacs+ Omprakash Patil  45,00,000 45 Lacs+ S R Patil HUF  26,61,233 26 Lacs+ Shivanand 20,00,000 20 Lacs+ MK  1,50,000 1 Lacs+ V N Patil  10,00,000 10 Lacs+ Santosh Kulkarni  5,00,000 5 Lacs+ Nageswarrao Malipatil  7,00,000 7 Lacs+ Basavaraj Patil  5,00,000 5 Lacs+","Shivkumar Patil  5,40,000 5 Lacs+ Shivanand S Bhimalli  30,00,000 30 Lacs+ SLN Management Services  40,00,000 40 Lacs+",Nil,Nil,Nil,Nil,"Rs 2,73,35,660 2 Crore+"
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"3,35,72,637 3 Crore+","10,94,81,086 10 Crore+",Nil,Nil,Nil,Nil,"Rs 14,30,53,723 14 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 3,35,72,637 3 Crore+","Rs 10,94,81,086 10 Crore+",Nil,Nil,Nil,Nil,"Rs 14,30,53,723 14 Crore+"

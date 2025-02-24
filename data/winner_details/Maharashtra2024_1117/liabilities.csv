@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"30,57,211 30 Lacs+ 26,57,102 26 Lacs+ 2,71,65,370 2 Crore+","75,87,232 75 Lacs+ 98,473 98 Thou+",Nil,Nil,Nil,Nil,"Rs 4,05,65,388 4 Crore+"
+2,i,Loans due to Individual / Entity,"2,21,14,093 2 Crore+ 1,18,00,050 1 Crore+ 2,00,000 2 Lacs+","6,64,100 6 Lacs+ 10,00,000 10 Lacs+ 57,35,035 57 Lacs+ 40,74,761 40 Lacs+ 2,33,335 2 Lacs+",Nil,Nil,Nil,Nil,"Rs 4,58,21,374 4 Crore+"
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"6,87,93,827 6 Crore+","1,93,92,936 1 Crore+",Nil,Nil,Nil,Nil,"Rs 8,81,86,763 8 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 6,69,93,826 6 Crore+","Rs 1,93,92,936 1 Crore+",Nil,Nil,Nil,Nil,"Rs 8,63,86,762 8 Crore+"

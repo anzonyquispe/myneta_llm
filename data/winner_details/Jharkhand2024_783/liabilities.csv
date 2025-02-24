@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,dependent4,dependent5,
+1,i,Loans from Banks / FIs,"State Bank of India, CKP Branch Vehicle Loan vide A/C No. 39454210901  8,46,924 8 Lacs+ State Bank of India, CKP Branch Vehicle Loan vide A/c No. 39970211690  2,68,429 2 Lacs+ SBI bank of India, CKP Branch Personal Loan vide A/c No. 42476743792  21,94,209 21 Lacs+ HDFC Bank, CKP Branch Vehicle Loan, A/c No. 128789342  4,83,358 4 Lacs+",Nil,Nil,"State Bank of India, CKP Branch, Personal Loan, A/c No. 42610419006  1,63,700 1 Lacs+",Nil,"Chola Finance Vehicle Loan  81,550 81 Thou+",Nil,Nil,"Rs 40,38,170 40 Lacs+"
+2,i,Loans due to Individual / Entity,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"37,92,920 37 Lacs+",Nil,Nil,"1,63,700 1 Lacs+",Nil,"81,550 81 Thou+",Nil,Nil,"Rs 40,38,170 40 Lacs+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 37,92,920 37 Lacs+",Nil,Nil,"Rs 1,63,700 1 Lacs+",Nil,"Rs 81,550 81 Thou+",Nil,Nil,"Rs 40,38,170 40 Lacs+"

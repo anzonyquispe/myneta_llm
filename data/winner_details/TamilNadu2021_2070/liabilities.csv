@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"IDBI Bank Tirupattur Br., Loan Ac No 1739675100000851 14,85,233 14 Lacs+","1)IDBI Bank Tirupattur Gold Loan AC No 1739671100041672  3,00,000 3 Lacs+ 2) Bharat State Bank Tirupattur Town Br., Gold Loan Ac 1.AGL-7-373  5,00,000 5 Lacs+ Bharat State Bank Tirupattur Town Br., Gold Loan Ac 2.AGL-7-374  3,00,000 3 Lacs+ Bharat State Bank Tirupattur Town Br., Gold Loan Ac 3.AGL-7-375  3,00,000 3 Lacs+ Bharat State Bank Tirupattur Town Br., Gold Loan Ac 4.AGL-7-376  1,70,000 1 Lacs+ Bharat State Bank Tirupattur Town Br., Gold Loan Ac 5.AGL-7-1483  5,00,000 5 Lacs+ Bharat State Bank Tirupattur Town Br., Gold Loan Ac 6.AGL-7-1484  3,30,000 3 Lacs+",Nil,"IDBI Bank Tirupattur Br., Educational Loan No 1739675100001038  3,83,764 3 Lacs+",Nil,Nil,"Rs 42,68,997 42 Lacs+"
+2,i,Loans due to Individual / Entity,"1)IDBI Bank Tirupattur Br., Building Rent 2,57,088 2 Lacs+ 2) Gold Loan 1,50,000 1 Lacs+",Nil,Nil,Nil,Nil,Nil,"Rs 4,07,088 4 Lacs+"
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"18,92,321 18 Lacs+","24,00,000 24 Lacs+",Nil,"3,83,764 3 Lacs+",Nil,Nil,"Rs 46,76,085 46 Lacs+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 18,92,321 18 Lacs+","Rs 24,00,000 24 Lacs+",Nil,"Rs 3,83,764 3 Lacs+",Nil,Nil,"Rs 46,76,085 46 Lacs+"

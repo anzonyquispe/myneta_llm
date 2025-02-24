@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"KCC RMGB Ac No. 83048122121  4,60,515 4 Lacs+ SBI Car Loan Ac 39331400324  13,00,000 13 Lacs+","ICICI Loan TBJAI00006211806  23,43,001 23 Lacs+ ICICI Morgage Loan  52,72,083 52 Lacs+ ICICI Personal Loan Ac No. LPJAI000336611  5,49,038 5 Lacs+ ICICI Gold Loan Ac 675405600749  30,66,199 30 Lacs+ KCC PNB Ac 939300880000257  2,20,493 2 Lacs+ Axis OD Ac 919030069468850  50,00,000 50 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,82,11,329 1 Crore+"
+2,i,Loans due to Individual / Entity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"17,60,515 17 Lacs+","1,64,50,814 1 Crore+",Nil,Nil,Nil,Nil,"Rs 1,82,11,329 1 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 17,60,515 17 Lacs+","Rs 1,64,50,814 1 Crore+",Nil,Nil,Nil,Nil,"Rs 1,82,11,329 1 Crore+"

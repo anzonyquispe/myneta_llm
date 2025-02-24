@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+2,i,Loans due to Individual / Entity,"Ashokbhai Vadher  4,45,630 4 Lacs+ Ashokbhai Balar  70,80,041 70 Lacs+ Binaben Jaiminbhai  30,000 30 Thou+ Jaiminbhai Ashokbhai  50,000 50 Thou+ Jayram Mavji Virani  44,14,255 44 Lacs+ Jadhavbhai Dharmshibhai Falthiya  25,00,000 25 Lacs+ Nitinbhai Kotak  4,78,671 4 Lacs+ Vidhitkumar Ashokbhai  50,000 50 Thou+","Ashokbhai Balar  69,06,389 69 Lacs+ Binaben Jaiminbhai 20,000 20 Thou+ Jayaram Mavji Virani  21,89,978 21 Lacs+ Kanitbhai Balar  6,41,459 6 Lacs+ Khimjibhai Mordiya  2,56,900 2 Lacs+ Loan  3,00,000 3 Lacs+ Ramilaben Balar  50,000 50 Thou+ Shamjibhai Kevdiya  94,47,654 94 Lacs+",Nil,Nil,Nil,Nil,"Rs 3,48,60,977 3 Crore+"
+3,i,Any other Liability,"Account Free  22,103 22 Thou+","Account Free  30,932 30 Thou+","Account Free  28,627 28 Thou+",Nil,Nil,Nil,"Rs 81,662 81 Thou+"
+4,i,Grand Total of Liabilities (as per affidavit),"1,50,70,700 1 Crore+","1,98,43,312 1 Crore+","28,627 28 Thou+",Nil,Nil,Nil,"Rs 3,49,42,639 3 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 1,50,70,700 1 Crore+","Rs 1,98,43,312 1 Crore+","Rs 28,627 28 Thou+",Nil,Nil,Nil,"Rs 3,49,42,639 3 Crore+"

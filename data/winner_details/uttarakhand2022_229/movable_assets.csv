@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Cash,"20,000 20 Thou+",Nil,Nil,"10,000 10 Thou+","50,000 50 Thou+",Nil,"Rs 80,000 80 Thou+"
+2,ii,"Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",Nil,Nil,Nil,"3,00,000 3 Lacs+","50,000 50 Thou+",Nil,"Rs 3,50,000 3 Lacs+"
+3,iii,"Bonds, Debentures and Shares in companies",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,iv,"(a)  NSS, Postal Savings etc",Nil,Nil,Nil,"50,000 50 Thou+","5,000 5 Thou+",Nil,"Rs 55,000 55 Thou+"
+5,iv,(b) LIC or other insurance Policies,"LIC  1,00,000 1 Lacs+",Nil,Nil,Nil,Nil,Nil,"Rs 1,00,000 1 Lacs+"
+6,v,Personal loans/advance given,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,vi,"Motor Vehicles (details of make, etc.)","MC Reg No-UK-06-8A-5467 Model 2021  5,00,000 5 Lacs+",Nil,Nil,"UK06-AC-7900 Year 2014  8,50,000 8 Lacs+",Nil,Nil,"Rs 13,50,000 13 Lacs+"
+8,vii,Jewellery (give details weight value),Nil,Nil,Nil,4 Tola Gold  0*(Value Not Given),2 Tola Gold  0*(Value Not Given),Nil,Rs 0
+9,viii,"Other assets, such as values of claims / interests",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,Gross Total Value (as per Affidavit),Gross Total Value (as per Affidavit),"6,20,000 6 Lacs+",0,0,"14,50,000 14 Lacs+","1,78,000 1 Lacs+",Nil,"Rs 22,48,000 22 Lacs+"
+11,Totals (Calculated as Sum of Values),Totals (Calculated as Sum of Values),"Rs 6,20,000 6 Lacs+",Nil,Nil,"Rs 12,10,000 12 Lacs+","Rs 1,05,000 1 Lacs+",Nil,"Rs 19,35,000 19 Lacs+"

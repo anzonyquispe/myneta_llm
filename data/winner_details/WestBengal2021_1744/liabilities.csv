@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,dependent4,
+1,i,Loans from Banks / FIs,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+2,i,Loans due to Individual / Entity,Nil,"Kamal Kishore Vyas (Unsecured Loan)  80,91,041 80 Lacs+ Mukesh Vyas (Unsecured Loan)  26,96,767 26 Lacs+ Mukesh Vyas HUF (Unsecured Loan)  53,95,014 53 Lacs+ Purshottam Lal Vyas HUF (Unsecured Loan)  26,97,507 26 Lacs+ Sandip Vyas, (Unsecured Loan)  80,88,081 80 Lacs+",Nil,"Kamal Kishore Vyas (Unsecured Loan)  27,19,452 27 Lacs+ Kamal Kishore Vyas HUF, (Unsecured Loan)  54,33,972 54 Lacs+ Kiran Vyas (Unsecured Loan)  81,55,890 81 Lacs+ Madhavi Purohit, (Unsecured Loan)  54,38,904 54 Lacs+ Mukesh Vyas (Unsecured Loan)  54,33,151 54 Lacs+ Purshottam Lal Vyas HUF, (Unsecured Loan)  27,14,520 27 Lacs+ Sandeep Vyas HUF, (Unsecured Loan)  54,38,904 54 Lacs+",Nil,Nil,Nil,"Rs 6,23,03,203 6 Crore+"
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),Nil,"2,69,68,410 2 Crore+",Nil,"3,53,34,793 3 Crore+",Nil,Nil,Nil,"Rs 6,23,03,203 6 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),Nil,"Rs 2,69,68,410 2 Crore+",Nil,"Rs 3,53,34,793 3 Crore+",Nil,Nil,Nil,"Rs 6,23,03,203 6 Crore+"

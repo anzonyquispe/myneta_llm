@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+2,i,Loans due to Individual / Entity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Disputed Tax demand of Rs. 4.75 Cr Fully Deleted by the CIT(A) vide no.404/08-09 dated 6-12-2010 and further an Appeal of the department before the ITAT Chennai was also dismissed vide ITA:No462/MDS/2011 dated 14-10-2015 Delayed Appeal on 14-07-2016 by the Department before the High Court Madras and numbered as TCA No.439/2016 the same is pending as disposal  0 Disputed Tax demand of Rs. 279.04 Cr raised by department on 31-12-2018 My Appeal vide no.ITA Nos.296 to 300/2018-2019 before CIT(A) is pending disposal  0,Nil,Nil,Nil,Nil,Nil,Rs 0
+19,iv,Totals (Calculated as Sum of Values),Rs 0,Nil,Nil,Nil,Nil,Nil,Rs 0

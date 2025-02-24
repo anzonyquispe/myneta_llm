@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"SBI, Sixmile, Guwahati Car Loan 38547959644  13,44,013 13 Lacs+","Central Bank of India, Nagaon Car Loan 4056891311  10,65,118 10 Lacs+ Central Bank of India, Nagaon Demand Loan 3859916457  17,36,577 17 Lacs+",Nil,Nil,Nil,Nil,"Rs 41,45,708 41 Lacs+"
+2,i,Loans due to Individual / Entity,"Nazrin Hussain  2,91,578 2 Lacs+ Tanzil Hussain  7,00,000 7 Lacs+",Nil,Nil,Nil,Nil,Nil,"Rs 9,91,578 9 Lacs+"
+3,i,Any other Liability,"Outstanding Motor Car Advance with Assam Legislative Assembly, Dispur  4,32,832 4 Lacs+","Trade Creditors  1,37,379 1 Lacs+",Nil,Nil,Nil,Nil,"Rs 5,70,211 5 Lacs+"
+4,i,Grand Total of Liabilities (as per affidavit),"27,68,423 27 Lacs+","29,39,074 29 Lacs+",Nil,Nil,Nil,Nil,"Rs 57,07,497 57 Lacs+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 27,68,423 27 Lacs+","Rs 29,39,074 29 Lacs+",Nil,Nil,Nil,Nil,"Rs 57,07,497 57 Lacs+"

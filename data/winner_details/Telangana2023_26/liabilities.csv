@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,Nil,"Indian Bank, Housing Loan, A/c No. 50465105071  21,51,113 21 Lacs+",Nil,Nil,"Indian Bank, Educational Loan, A/c No. 7266767000  38,04,050 38 Lacs+",Nil,"Rs 59,55,163 59 Lacs+"
+2,i,Loans due to Individual / Entity,"B Subhash Reddy 30,50,000 30 Lacs+ Vemula Neeraja  10,65,700 10 Lacs+ M/S beema Infra 3,22,820 3 Lacs+ Marigold Investment 4,27,500 4 Lacs+ Pulapaka Sales 1,50,000 1 Lacs+ IRA Clinic  1,25,000 1 Lacs+ Gorgeous and Graceful  2,59,500 2 Lacs+","M/s Beema Developers 1,75,00,000 1 Crore+ Merigold Investment 4,27,500 4 Lacs+ Flat No. 203, Beema Pride  90,000 90 Thou+ IRA Clinic 1,25,000 1 Lacs+ Gorgeous and Graceful 2,59,500 2 Lacs+ G.Venkat Narsimha Reddy  2,00,000 2 Lacs+ G.Mohan  22,00,000 22 Lacs+ G. Mohan  2,00,000 2 Lacs+ M/s Beema Infra  3,25,190 3 Lacs+ Yalla Bhupathi Reddy  12,50,000 12 Lacs+",Nil,Nil,Nil,Nil,"Rs 2,79,77,710 2 Crore+"
+3,i,Any other Liability,Nil,"Wrong Foreign Remittance  4,61,000 4 Lacs+",Nil,Nil,Nil,Nil,"Rs 4,61,000 4 Lacs+"
+4,i,Grand Total of Liabilities (as per affidavit),"54,00,520 54 Lacs+","2,51,89,303 2 Crore+",Nil,Nil,"38,04,050 38 Lacs+",Nil,"Rs 3,43,93,873 3 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 54,00,520 54 Lacs+","Rs 2,51,89,303 2 Crore+",Nil,Nil,"Rs 38,04,050 38 Lacs+",Nil,"Rs 3,43,93,873 3 Crore+"

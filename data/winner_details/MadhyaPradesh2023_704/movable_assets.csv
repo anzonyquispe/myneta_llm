@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Cash,"2,00,000 2 Lacs+","1,50,000 1 Lacs+",Nil,"20,000 20 Thou+","5,000 5 Thou+","5,000 5 Thou+","Rs 3,80,000 3 Lacs+"
+2,ii,"Deposits in Banks, Financial Institutions and Non-Banking Financial Companies","Bank Of Indian City AC 1,71,365 1 Lacs+ SBI Bank AC 3,748 3 Thou+ PNB Bank No 0101100003xxxxx  5,000 5 Thou+","Bank Of Indian City  1,54,464 1 Lacs+ SBI Bank No 03305207xxxxx  1,823 1 Thou+ PNB Bank No 0101100003xxxxx  3,000 3 Thou+",Nil,"SBI Bank No 2041483xxxxx  10,299 10 Thou+","Bank Of Indian City No 94581011001xxxxx  3,000 3 Thou+","Bank Of Indian City No 94581011001xxxxx  3,000 3 Thou+","Rs 3,55,699 3 Lacs+"
+3,iii,"Bonds, Debentures and Shares in companies","Sheetala Builders and Motors Private Limited  2,00,000 2 Lacs+ Maa Pitambara Granite Partnership Firm Partnership 40%  0*(Value Not Given)","Sheetala Builders and Motors Private Limited 2,00,000 2 Lacs+ Maa Pitambara Granite Partnership Firm Partnership 40% 0*(Value Not Given) I Dev Developers Partnership Research 12% Total Capital  1,50,000 1 Lacs+",Nil,Nil,Nil,Nil,"Rs 5,50,000 5 Lacs+"
+4,iv,"(a)  NSS, Postal Savings etc",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+5,iv,(b) LIC or other insurance Policies,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,v,Personal loans/advance given,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,vi,"Motor Vehicles (details of make, etc.)",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,vii,Jewellery (give details weight value),"250 Gms Gold 14,50,000 14 Lacs+","625 Gms Gold 36,25,000 36 Lacs+ 900 Gms Silver  45,000 45 Thou+",Nil,Nil,Nil,Nil,"Rs 51,20,000 51 Lacs+"
+9,viii,"Other assets, such as values of claims / interests",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,Gross Total Value (as per Affidavit),Gross Total Value (as per Affidavit),"20,30,113 20 Lacs+","43,29,288 43 Lacs+",Nil,"30,299 30 Thou+","8,000 8 Thou+","8,000 8 Thou+","Rs 64,05,700 64 Lacs+"
+11,Totals (Calculated as Sum of Values),Totals (Calculated as Sum of Values),"Rs 20,30,113 20 Lacs+","Rs 43,29,287 43 Lacs+",Nil,"Rs 30,299 30 Thou+","Rs 8,000 8 Thou+","Rs 8,000 8 Thou+","Rs 64,05,699 64 Lacs+"

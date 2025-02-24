@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"ICICI Bank Car Loan  11,61,690 11 Lacs+","HDFC Bank Car Loan  5,07,488 5 Lacs+",Nil,Nil,Nil,Nil,"Rs 16,69,178 16 Lacs+"
+2,i,Loans due to Individual / Entity,"Rekhaben  19,99,000 19 Lacs+ Sanjay D Kaswala  4,00,000 4 Lacs+ Sativa Life Spaces  29,65,000 29 Lacs+ Smeet P Kaswala  7,00,000 7 Lacs+ South Park Inc  14,09,800 14 Lacs+ Static Procon  5,20,000 5 Lacs+ Sward Space  5,25,000 5 Lacs+ Mahesh L Kaswala  1,50,000 1 Lacs+ Bhagirath Infrabuild  12,72,460 12 Lacs+ Jitedra L Kaswala  10,72,000 10 Lacs+ Rasilaben P Kaswala  29,18,000 29 Lacs+ Dwarkadas B Kaswala  7,00,000 7 Lacs+ Sapphire Atmamangal Corp  4,65,280 4 Lacs+","Bhavani Buildpro Pvt Ltd  14,57,002 14 Lacs+ Jitendrabhai L Kaswala  3,00,000 3 Lacs+ Jitendra L Kaswala HUF  4,00,000 4 Lacs+ Chandrikaben Savaliya  5,15,000 5 Lacs+ Loan from Relatives  2,01,000 2 Lacs+ Muktaben D Kaswala  12,500 12 Thou+ Mahesh L Kaswala HUF  69,248 69 Thou+ Mahesh L Kaswala  63,91,800 63 Lacs+ Sapphire Atmamangal Corp  1,24,000 1 Lacs+ Shardaben Jitendrabhai Kaswala  10,95,000 10 Lacs+ Sward Spaces  81,330 81 Thou+ Sattva Life Spaces  5,30,000 5 Lacs+ South Park  40,000 40 Thou+",Nil,Nil,Nil,Nil,"Rs 2,63,13,420 2 Crore+"
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"1,62,58,230 1 Crore+","1,17,24,368 1 Crore+",Nil,Nil,Nil,Nil,"Rs 2,79,82,598 2 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 1,62,58,230 1 Crore+","Rs 1,17,24,368 1 Crore+",Nil,Nil,Nil,Nil,"Rs 2,79,82,598 2 Crore+"

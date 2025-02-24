@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"SBI Car Loan-39021525754  22,37,586 22 Lacs+","BOB Baroda Katni-19720500007938  7,46,293 7 Lacs+ Axis Bank Car Loan-AUR012805212908  2,06,526 2 Lacs+",Nil,Nil,Nil,Nil,"Rs 31,90,405 31 Lacs+"
+2,i,Loans due to Individual / Entity,"Unsecured Loan  25,00,000 25 Lacs+","Unsecured Loan-Akash Lalwani 1,50,000 1 Lacs+ Rajesh Daryani  4,50,000 4 Lacs+ Vikram Singh  5,00,000 5 Lacs+ Ankit Panjwani  4,00,000 4 Lacs+ Niranjan Panjwani  12,00,000 12 Lacs+ Saransh Jaysawal  10,29,016 10 Lacs+",Nil,Nil,Nil,Nil,"Rs 62,29,016 62 Lacs+"
+3,i,Any other Liability,Nil,"Manoj Jain  9,50,000 9 Lacs+ Other  2,19,156 2 Lacs+",Nil,Nil,Nil,Nil,"Rs 11,69,156 11 Lacs+"
+4,i,Grand Total of Liabilities (as per affidavit),"47,37,586 47 Lacs+","58,50,991 58 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,05,88,577 1 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 47,37,586 47 Lacs+","Rs 58,50,991 58 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,05,88,577 1 Crore+"

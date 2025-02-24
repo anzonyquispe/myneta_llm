@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"Dediyasan Credit Society Loan Cash Credit Loan  30,43,244 30 Lacs+ Axis Bank Home Loan  25,00,000 25 Lacs+ HDFC Bank Car Loan  10,53,480 10 Lacs+","Dediyasan Credit Society Cash Credit Loan  3,07,500 3 Lacs+",Nil,Nil,Nil,Nil,"Rs 69,04,224 69 Lacs+"
+2,i,Loans due to Individual / Entity,"Amitkumar B Patel  1,50,000 1 Lacs+ Chetankumar D Patel  5,00,000 5 Lacs+ Hardik S Patel  1,50,000 1 Lacs+ Het M Patel  8,90,000 8 Lacs+ Karan A Patel  62,14,845 62 Lacs+ Kush M Patel  9,50,000 9 Lacs+ Mihir B Patel  50,000 50 Thou+ Mukesh Patel  11,23,480 11 Lacs+ Mukehsbhai M Patel  5,00,000 5 Lacs+ Mukesh D Patel  60,24,023 60 Lacs+ Parulben P Patel  1,00,000 1 Lacs+ Rakshaben M Patel  4,75,000 4 Lacs+ Ravi B Patel  50,000 50 Thou+ Satishbhai D Patel  8,24,000 8 Lacs+ Sitaben D Patel  13,00,000 13 Lacs+","Kush M Patel  15,75,000 15 Lacs+ Mukesh D Patel HUF  7,66,526 7 Lacs+ Mukeshbhai M Patel  10,00,000 10 Lacs+",Nil,Nil,Nil,Nil,"Rs 2,26,42,874 2 Crore+"
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"2,58,98,072 2 Crore+","36,49,026 36 Lacs+",Nil,Nil,Nil,Nil,"Rs 2,95,47,098 2 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 2,58,98,072 2 Crore+","Rs 36,49,026 36 Lacs+",Nil,Nil,Nil,Nil,"Rs 2,95,47,098 2 Crore+"

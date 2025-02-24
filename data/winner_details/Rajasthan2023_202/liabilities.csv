@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"BOI Bank 1,53,183 1 Lacs+ AU Bank 2,43,005 2 Lacs+ AU Bank 33,734 33 Thou+","BOI Bank 76,971 76 Thou+",Nil,Nil,Nil,Nil,"Rs 5,06,893 5 Lacs+"
+2,i,Loans due to Individual / Entity,"Kaushalya Devi  8,52,969 8 Lacs+ Madan Lal Sharma  7,88,904 7 Lacs+ Sharda sharma  1,02,409 1 Lacs+ Nandlal Choudhary  12,77,473 12 Lacs+","Kaushalya Devi 6,60,000 6 Lacs+",Nil,Nil,Nil,Nil,"Rs 36,81,755 36 Lacs+"
+3,i,Any other Liability,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+4,i,Grand Total of Liabilities (as per affidavit),"33,84,209 33 Lacs+","7,36,971 7 Lacs+",Nil,Nil,Nil,Nil,"Rs 41,21,180 41 Lacs+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 34,51,677 34 Lacs+","Rs 7,36,971 7 Lacs+",Nil,Nil,Nil,Nil,"Rs 41,88,648 41 Lacs+"

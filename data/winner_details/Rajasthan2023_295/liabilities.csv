@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8
+0,Sr No,Description,self,spouse,huf,dependent1,dependent2,dependent3,
+1,i,Loans from Banks / FIs,"ICICI Bank  36,86,673 36 Lacs+","Axis Bank  18,11,772 18 Lacs+ ICICI Bank  36,86,673 36 Lacs+",Nil,Nil,Nil,Nil,"Rs 91,85,118 91 Lacs+"
+2,i,Loans due to Individual / Entity,"Seema Saraf  1,00,000 1 Lacs+ Seema Saraf  90,000 90 Thou+","Kali Charan Saraf  32,00,000 32 Lacs+ Seema Saraf  85,000 85 Thou+",Nil,Nil,Nil,Nil,"Rs 34,75,000 34 Lacs+"
+3,i,Any other Liability,"Rent  37,500 37 Thou+","Rent  2,80,800 2 Lacs+",Nil,Nil,Nil,Nil,"Rs 3,18,300 3 Lacs+"
+4,i,Grand Total of Liabilities (as per affidavit),"39,14,173 39 Lacs+","90,64,245 90 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,29,78,418 1 Crore+"
+5,ii,Dues to departments dealing with government accommodation,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+6,ii,Dues to departments dealing with supply of water,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+7,ii,Dues to departments dealing with supply of electricity,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+8,ii,Dues to departments dealing with telephones,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+9,ii,Dues to departments dealing with supply of transport,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+10,ii,Income Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+11,ii,Wealth Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+12,ii,Service Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+13,ii,Property Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+14,ii,Sales Tax Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+15,ii,GST Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+16,ii,Any Other Dues,Nil,Nil,Nil,Nil,Nil,Nil,Nil
+17,iii,Grand Total of all Govt Dues (as per affidavit),Nil,Nil,Nil,Nil,Nil,Nil,Nil
+18,iv,"Whether any other liabilities are in dispute, if so, mention the amount involved and the authority before which it is pending",Nil,Nil,Nil,Nil,Nil,Nil,Nil
+19,iv,Totals (Calculated as Sum of Values),"Rs 39,14,173 39 Lacs+","Rs 90,64,245 90 Lacs+",Nil,Nil,Nil,Nil,"Rs 1,29,78,418 1 Crore+"
